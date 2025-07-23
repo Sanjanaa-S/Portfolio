@@ -1,0 +1,29 @@
+header{
+    background-color:beige;    
+    text-align: center;
+    padding: 30px;
+
+}
+
+body{
+    font-family: Georgia;
+
+}
+
+section{
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto; 
+    box-shadow: 0 2px 8px gray;
+    background-color:beige;
+}
+
+h2{
+    border-bottom: 2px solid gray;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem'
+}
+
+#education{
+    background-color:beige;
+}
